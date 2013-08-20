@@ -1,0 +1,6 @@
+alias ni='npm i'
+alias nis='npm i -S'
+alias nin='npm ini'
+alias ns='npm s'
+alias nv='npm vi'
+alias np='npm pu'
